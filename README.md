@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site Móveis Customizados é um projeto que tem como objetivo ensinar os fundamentos essenciais de HTML e CSS. Além disso, concentramos nossos esforços em garantir que o código seja desenvolvido de maneira semanticamente correta.
+O Flutuar é um projeto que tem como objetivo ensinar os fundamentos essenciais de HTML e CSS. Além disso, concentramos nossos esforços em garantir que o código seja desenvolvido de maneira semanticamente correta.
 
 - [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/explore-projeto-extra1/)
 
@@ -33,4 +33,4 @@ O site Móveis Customizados é um projeto que tem como objetivo ensinar os funda
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/NDyEL35IitXm9hf0y0xF4G/Projeto01-Extra-(Copy)?type=design&node-id=1-2&mode=design&t=kucgYFofwwPcVnKa-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-<img alt="Layut Figma" src="./imagens/layout-figma.png" width="100%">
+<img alt="Layout Figma" src="./imagens/layout-figma.png" width="100%">
